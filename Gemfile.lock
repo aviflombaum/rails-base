@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/kaminari/kaminari.git
-  revision: 5442f24d1f348a430fb50834d61a356b721875d4
+  revision: 325fc07666101fcad8deeab04e819171cd30cd91
   branch: master
   specs:
     kaminari (1.2.2)
@@ -18,7 +18,7 @@ GIT
 
 GIT
   remote: https://github.com/rails/rails.git
-  revision: c13b82a088d496d49d0344f6afd773c3acdd5bc6
+  revision: bab4aa7cb25112846e04cea907361a1de0f126ef
   branch: main
   specs:
     actioncable (7.2.0.alpha)
@@ -140,7 +140,7 @@ GEM
       activesupport (>= 6.0.0)
       railties (>= 6.0.0)
     io-console (0.7.2)
-    irb (1.11.1)
+    irb (1.11.2)
       rdoc
       reline (>= 0.4.2)
     jbuilder (2.11.5)
@@ -162,7 +162,7 @@ GEM
     marcel (1.0.2)
     method_source (1.0.0)
     mini_mime (1.1.5)
-    minitest (5.22.1)
+    minitest (5.21.2)
     msgpack (1.7.2)
     net-imap (0.4.10)
       date
